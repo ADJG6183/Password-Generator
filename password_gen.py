@@ -1,3 +1,5 @@
+# I need to learn how to use git and github
+
 import random 
 import string
 
