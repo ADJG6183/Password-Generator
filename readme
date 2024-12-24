@@ -1,0 +1,45 @@
+# Password Generator
+
+## Description
+
+This project is a Password Generator that creates strong, random passwords to enhance security. The generated passwords can include a mix of uppercase letters, lowercase letters, numbers, and special characters based on user preferences.
+
+## Features
+
+- Generate passwords of customizable length
+- Include or exclude uppercase letters
+- Include or exclude lowercase letters
+- Include or exclude numbers
+- Include or exclude special characters
+- Copy generated password to clipboard
+
+## Installation
+
+1. Clone the repository:
+    ```
+    git clone https://github.com/yourusername/password-generator.git
+    ```
+2. Navigate to the project directory:
+    ```
+    cd password-generator
+    ```
+3. Install the required dependencies:
+    ```
+    npm install
+    ```
+
+## Usage
+
+1. Run the application:
+    ```
+    npm start
+    ```
+2. Follow the on-screen instructions to generate a password based on your preferences.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

@@ -1,4 +1,5 @@
 # I need to learn how to use git and github
+# I need to master using git commands 
 
 import random 
 import string
